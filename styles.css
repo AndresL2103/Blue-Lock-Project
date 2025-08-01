@@ -1,0 +1,13 @@
+body{
+    background-color: #000;
+}
+h1{
+    font-size: 5rem;
+    color: #fff;
+    text-align: left;
+    margin-top: 21px;
+}
+p{
+    font-size: 1.2rem;
+    color:#fff;
+}
